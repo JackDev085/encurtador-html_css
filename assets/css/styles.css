@@ -65,6 +65,8 @@ body{
   border-radius: 6%;
   padding: 6% 0;
   background-color: white;
+  transition: all 100ms;
+  border-radius: 40px;
 }
 
 .main div img {
@@ -97,8 +99,7 @@ body{
 }
 .links:hover {
 
-  border: green 2px solid;
-  color:white
+ scale: 1.05;
 }
 
 address{
