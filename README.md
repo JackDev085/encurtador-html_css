@@ -1,14 +1,6 @@
----
-name: HTML Starter
-slug: html-starter-with-analytics
-description: HTML5 template with analytics and advanced routing configuration.
-deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html
-relatedTemplates:
-  - nextjs-boilerplate
----
+# Encurtador com html e css.
 
-# HTML Starter
-
-This is a starter HTML5 templates which is configured with Vercel Analytics (through a `script` tag), advanced routing with [Vercel Edge Middleware](https://vercel.com/docs/concepts/functions/edge-middleware), as well as some basic styles
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html)
+### Tive a ideia desse projeto ao navegar pelo instagram e me deparar com
+### diversos perfis utilizando encurtadores. Tive a ideia de criar o meu, só que
+### com a mão na massa. Não fiz muita perfumaria quanto ao design, entretanto
+### fiquei feliz com o resultado do projeto. Algo simples e funcional.
